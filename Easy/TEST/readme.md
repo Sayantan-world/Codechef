@@ -1,1 +1,2 @@
-# Seriously? XD
+# Logic: 
+*Seriously?* XD
