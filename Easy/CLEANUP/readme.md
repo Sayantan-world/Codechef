@@ -1,4 +1,5 @@
-# Time Complexity : O(n) [Excluding the loop for test cases]
+# Time Complexity : O(n)
+[Excluding the loop for test cases]
 ### Language : PYPY3
 ---
 **Question** : After a long and successful day of preparing food for the banquet, it is time to clean up. There is a list of n jobs to do before the kitchen can be closed for the night. These jobs are indexed from 1 to n.
