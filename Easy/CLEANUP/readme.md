@@ -11,7 +11,7 @@ The cooks logged which jobs they finished before they left. Unfortunately, these
 ---
 **LOGIC** : <br /><br/>
 First we define 2 empty list (one for chef , other for his assistant). <br/> 
-Here a few tasks (numbers) that are already complete, thus during looping if we face them we continue. <br/>
+Here a few tasks (numbers) are already complete, thus during looping if we face them we continue. <br/>
 Now we alternatively append the unfinished tasks to chef and his assistant.
 
 ---
