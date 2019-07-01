@@ -1,4 +1,4 @@
-# Time Complexity : O(n)
+# Time Complexity : O(nlog(n))
 [Excluding the loop for test cases]
 ### Language : PYPY3
 ---
@@ -13,6 +13,6 @@ Vlad needs your help! He gives you all the information of his playlist. Your tas
 ---
 **LOGIC** : <br /><br/>
 First we store the element at position k <br><br>
-Now we srt the array and then find the index of the required element<br><br> 
+Now we sort the array and then find the index of the required element<br><br> 
 
 ---
