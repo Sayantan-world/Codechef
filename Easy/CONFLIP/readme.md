@@ -15,7 +15,7 @@ Elephant needs to guess the total number of coins showing a particular face afte
 This problem follows a specific pattern , observe carefully with each round all the coins just flips
 Now think what happens if the initial state is same as the guessing state??<br/><br/>
 Note the pattern here if the above condition is true its always <br/>
-```No of rounds / 2```<br/>
+```No of rounds / 2```<br/><br>
 Else its <br/>
 ```No of rounds - (No of rounds/2)```
 
